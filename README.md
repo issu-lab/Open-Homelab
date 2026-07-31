@@ -1,6 +1,4 @@
-# iSSU
-
-## Open Homelab
+![iSSU Open Homelab](assets/issu-open-homelab-banner.png)
 
 **Built for my homelab. Shared with the community.**
 
@@ -130,3 +128,4 @@ The priority is not to make every project appear finished. The priority is to ma
 ## License
 
 Unless otherwise stated in an individual repository, projects in the iSSU Open Homelab ecosystem are released under the MIT License.
+
