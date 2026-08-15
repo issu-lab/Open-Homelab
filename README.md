@@ -76,15 +76,15 @@ It provides a central interface for organizing and accessing services, with Dock
 **Status:** Active Development  
 **Documentation:** Available in Italian; revision planned
 
-### [IR Thermostat](https://github.com/issu-lab/termostato-ir)
+### [IR Thermostat](https://github.com/issu-lab/ir-thermostat)
 
-An AppDaemon climate controller for stateless infrared devices.
+An archived AppDaemon climate controller for stateless infrared devices.
 
-It uses power consumption as real-world feedback to verify commands, detect external operation and keep Home Assistant synchronized with the controlled device.
+It uses power consumption as real-world feedback to verify commands, detect external operation and keep Home Assistant synchronized with the controlled device. It has been superseded by [ThermoPilot](https://github.com/issu-lab/thermopilot) and remains available for reference.
 
-**Area:** Home Automation · Automation  
-**Status:** Active Development  
-**Documentation:** Available in Italian; revision planned
+**Area:** Home Automation · Automation<br>
+**Status:** Archived · Superseded by ThermoPilot<br>
+**Documentation:** Historical reference
 
 ### MikroTik Network Framework
 
