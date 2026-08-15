@@ -46,6 +46,16 @@ ThermoMatrix provides a compact interface, visual configuration, responsive cont
 **Status:** Active Development  
 **Documentation:** In progress
 
+### [ThermoPilot](https://github.com/issu-lab/thermopilot)
+
+A native and configurable climate controller for Home Assistant.
+
+ThermoPilot combines multiple environment sensors, presets and hardware commands in reusable thermostat instances, with optional dedicated power feedback for confirmed physical state and manual-operation detection.
+
+**Area:** Home Automation<br>
+**Status:** Active Development<br>
+**Documentation:** Available
+
 ### [Load Manager](https://github.com/issu-lab/ha-load-manager)
 
 An AppDaemon application for managing electrical loads through Home Assistant.
@@ -128,4 +138,3 @@ The priority is not to make every project appear finished. The priority is to ma
 ## License
 
 Unless otherwise stated in an individual repository, projects in the iSSU Open Homelab ecosystem are released under the MIT License.
-
