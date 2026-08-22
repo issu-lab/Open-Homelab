@@ -76,6 +76,18 @@ It provides a central interface for organizing and accessing services, with Dock
 **Status:** Active Development  
 **Documentation:** Available in Italian; revision planned
 
+### [i3 Matrix](https://github.com/issu-lab/i3-matrix)
+
+A reproducible Matrix-inspired i3 desktop theme for local and remote sessions.
+
+It packages the i3, i3blocks, Rofi, Picom, GTK and terminal configuration used
+in the homelab, with automatic backups and checksum-verified installation of
+the historical Matrix icon theme.
+
+**Area:** Infrastructure · Shared Resources<br>
+**Status:** Active Development<br>
+**Documentation:** Available
+
 ### [IR Thermostat](https://github.com/issu-lab/ir-thermostat)
 
 An archived AppDaemon climate controller for stateless infrared devices.
