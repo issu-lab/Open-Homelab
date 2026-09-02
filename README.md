@@ -56,6 +56,16 @@ ThermoPilot combines multiple environment sensors, presets and hardware commands
 **Status:** Active Development<br>
 **Documentation:** Available
 
+### [Energy Report](https://github.com/issu-lab/energy-report)
+
+A native Home Assistant integration for resilient consumption accounting, monthly cost reports, forecasts and portable CSV archives.
+
+Energy Report supports cumulative-energy sensors, instantaneous power sensors or both, while preserving its ledger across meter resets and replacements.
+
+**Area:** Home Automation · Energy Management<br>
+**Status:** Stable<br>
+**Documentation:** Available
+
 ### [Load Manager](https://github.com/issu-lab/ha-load-manager)
 
 An AppDaemon application for managing electrical loads through Home Assistant.
