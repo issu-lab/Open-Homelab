@@ -36,6 +36,17 @@ Documentation, templates and common resources used across the iSSU ecosystem.
 
 ## Current Projects
 
+### [VinylMatrix Card](https://github.com/issu-lab/vinylmatrix-card)
+
+An animated turntable and cassette music card for Home Assistant.
+
+VinylMatrix follows the active player from a configurable list and offers Minimal, Classic and Cassette styles in light and dark modes, with playback, volume and seeking controls when supported. Used regularly in Home Assistant without reported issues.
+
+**Area:** Home Automation<br>
+**Status:** Stable · 1.0.0<br>
+**Distribution:** HACS custom repository · Dashboard card<br>
+**Documentation:** Available
+
 ### [ThermoMatrix Card](https://github.com/issu-lab/thermomatrix-card)
 
 A modular LCD-inspired climate card for Home Assistant.
