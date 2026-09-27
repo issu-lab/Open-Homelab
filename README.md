@@ -47,6 +47,17 @@ VinylMatrix follows the active player from a configurable list and offers Minima
 **Distribution:** HACS custom repository · Dashboard card<br>
 **Documentation:** Available
 
+### [AmpMatrix Card](https://github.com/issu-lab/ampmatrix-card)
+
+A compact hi-fi amplifier card for Home Assistant, designed to complement VinylMatrix.
+
+AmpMatrix combines a segmented orange LCD, master volume knob with a warm-white power ring, source and EQ selectors, and optional script presets. The device name appears on the front panel. Version 0.3.0 has passed simulated Chromium tests; live validation of the new features remains pending.
+
+**Area:** Home Automation<br>
+**Status:** Experimental · 0.3.0<br>
+**Distribution:** HACS custom repository · Dashboard card<br>
+**Documentation:** Available
+
 ### [ThermoMatrix Card](https://github.com/issu-lab/thermomatrix-card)
 
 A modular LCD-inspired climate card for Home Assistant.
