@@ -88,7 +88,7 @@ Energy Report supports cumulative-energy sensors, instantaneous power sensors or
 **Status:** Stable<br>
 **Documentation:** Available
 
-### [Load Manager](https://github.com/issu-lab/ha-load-manager)
+### [Load Manager](https://github.com/issu-lab/load-manager)
 
 An AppDaemon application for managing electrical loads through Home Assistant.
 
